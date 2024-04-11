@@ -1,0 +1,31 @@
+.navbar {
+    background-color: rgb(92, 120, 245);
+    padding: 30px 20px;
+    position: sticky;
+    top: 0;
+    color: rgb(31, 34, 32);
+    border-radius: 0 0 50px 50px;
+  }
+  
+  .navbar-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav-item {
+    margin-right: 15px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #ccc;
+  }
+  

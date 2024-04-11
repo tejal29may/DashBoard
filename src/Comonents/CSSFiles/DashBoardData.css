@@ -1,0 +1,18 @@
+.cards{
+    display: flex;
+   gap: 2%;
+   margin-top: 20px;
+}
+.charts{
+    margin-top: 5%;
+   
+}
+.charts .left{
+    width: 60%;
+   padding-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+}
+.charts .right{
+    width: 40%;
+}

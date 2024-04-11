@@ -1,0 +1,20 @@
+.pagination ul{
+    display: flex;
+    list-style: none;
+    border: none;
+}
+.pagination ul li{
+    border: none;
+    background-color: white;
+   
+}
+
+.pagination ul li:hover{
+    background-color: white;
+}
+
+.oldest{
+    height: 40px;
+    width: 350px;
+    text-align: center;
+}
